@@ -7,6 +7,7 @@ export default function Footer() {
         <img src="/github-icon.png"></img>
         <img src="/github-icon.png"></img>
         <img src="/github-icon.png"></img>
+        
     </div>
 
   )
